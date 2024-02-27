@@ -1,0 +1,19 @@
+Test Case 1:
+  1:  {30, Lego}
+  2:  {40, Structures}
+  3:  {45, are}
+  4:  {50, indeed}
+  5:  {55, truly}
+  6:  {60, very}
+  7:  {70, entertaining}
+------------------------------
+
+
+Test Case 2:
+  1:  {30, Data}
+  2:  {40, Structures}
+  3:  {45, are}
+  4:  {50, indeed}
+  5:  {55, truly}
+  6:  {75, awesome}
+------------------------------
